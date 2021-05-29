@@ -1,4 +1,4 @@
-# Pong game
+# Pong game with Michael Scott Sound when player scores
 import turtle
 import winsound
 from os import path
